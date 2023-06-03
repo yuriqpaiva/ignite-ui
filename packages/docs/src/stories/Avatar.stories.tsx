@@ -9,6 +9,13 @@ export default {
     src: 'https://github.com/yuriqpaiva.png',
     alt: 'Avatar',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta
 
 export const Primary: StoryObj<AvatarProps> = {}
