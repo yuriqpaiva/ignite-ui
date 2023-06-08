@@ -28,6 +28,19 @@ Monorepo containing the Ignite UI Design System:
 
 <br>
 
+## ⚛️ Components
+- Text
+- Heading
+- Box
+- Button
+- TextInput
+- TextArea
+- Checkbox
+- Avatar
+- MultiStep
+
+<br>
+
 ## 🛠️ Technologies
 
 This application is built using the following technologies:
